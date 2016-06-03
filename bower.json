@@ -1,0 +1,6 @@
+{
+  "name": "dc",
+  "description": "A JavaScript visualization library for HTML and SVG.",
+  "main": "dc.js",
+  "ignore": []
+}
